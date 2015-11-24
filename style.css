@@ -1,0 +1,59 @@
+td,P,li	{
+	font-family : "Courier New", Courier, mono;
+	font-size : 15px;
+	color : #000000;
+}
+A.alink {  
+	color : #FF3366;  
+}
+A.vlink {  
+	color : #FF3366; 
+}
+.shopitem {
+	font-size : 16px;
+	font-family: "Courier New", Courier, mono;
+}
+hr { 
+	color : #000000 ; 
+}
+h2 { 
+	font-family : "Courier New", Courier, mono
+}
+.msgTbHead { 
+	color: #FFFFFF; 
+}
+.error {  
+	color : #FF0000;  
+}
+.head1 {
+	font-family: "Courier New", Courier, mono;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #000000;
+}
+.head2 {
+	font-family: "Courier New", Courier, mono;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+}
+body {	
+	margin: 0px; 
+}
+a:link {
+	color: #FF3366;
+	font-family: "Courier New", Courier, mono;
+}
+.albumtext {
+	font-family : "Courier New", Courier, mono;
+	font-size : 9px;
+	color : #000000;
+	text-align: center;
+}
+.picleft {
+	margin-top: 0px;
+	margin-right: 14px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
